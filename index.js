@@ -164,6 +164,8 @@ const line = []
 // // => `Currently serving 2.`
 // console.log("%c----------", "color: red") 
 
+// console.log(takeATicketNumber(line))
+// // => `Welcome. You are ticket number 3`
 
 
 // ***** Scope & Closures - Question 2 *****

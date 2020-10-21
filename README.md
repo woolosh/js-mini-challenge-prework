@@ -228,6 +228,9 @@ console.log(nowServing(line))
 
 console.log(nowServing(line))
 // => `Currently serving 2.`
+
+console.log(takeATicketNumber(line))
+// => `Welcome. You are ticket number 3`
 ```
 
 ### Scopes & Closures - Question 2 (BONUS)
@@ -250,4 +253,7 @@ console.log(nowServing(newLine))
 
 console.log(nowServing(newLine))
 // => `Currently serving 2.`
+
+console.log(takeATicketNumber(line))
+// => `Welcome. You are ticket number 3`
 ```
