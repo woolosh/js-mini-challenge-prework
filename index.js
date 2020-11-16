@@ -162,15 +162,13 @@ const line = []
 
 // console.log(nowServing(line))
 // // => `Currently serving 2.`
-// console.log("%c----------", "color: red") 
 
 // console.log(takeATicketNumber(line))
 // // => `Welcome. You are ticket number 3`
 
+// console.log("%c----------", "color: red") 
 
 // ***** Scope & Closures - Question 2 *****
-
-
 // *** Uncomment the lines below to test
 // console.log("%cScope & Closures - Question 2", "color: red")
 
@@ -187,4 +185,8 @@ const line = []
 
 // console.log(nowServing(newLine))
 // // => `Currently serving 2.`
+
+// console.log(takeATicketNumberFunc(newLine))
+// // => `Welcome. You are ticket number 3`
+
 // console.log("%c----------", "color: red") 
